@@ -1,6 +1,6 @@
 ﻿# Projek Konfigurasi DNS
-3121600021 Muhammad Faishal Nabhan   
-3121600008 Mochammad Rizal
+3121600021 Muhammad Faishal Nabhan   <b>
+3121600008 Mochammad Rizal <b>
 3121600007 Muhammad Rizal	
 
 
