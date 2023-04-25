@@ -65,4 +65,25 @@ Ketikkan pada New Terminal Winbox
 
 [Dokumentasi](https://drive.google.com/file/d/1NXB4yPU9dC1U83fsOYPHV4S4TIG1pC6E/view?usp=share_link)
 
+```console
 
+/interface wireless security-profiles
+set [ find default=yes ] supplicant-identity=MikroTik
+/ip pool
+add name=dhcp_pool0 ranges=192.168.7.2-192.168.7.254
+/ip dhcp-server
+add address-pool=dhcp_pool0 disabled=no interface=ether2 name=dhcp1
+/ip address
+add address=10.252.108.17/24 interface=ether1 network=10.252.108.0
+add address=192.168.7.1/24 interface=ether2 network=192.168.7.0
+/ip dhcp-server network
+add address=192.168.7.0/24 gateway=192.168.7.1
+/ip dns
+set servers=202.9.85.3
+/ip firewall nat
+add action=masquerade chain=srcnat out-interface=ether1
+/ip route
+add distance=1 gateway=10.252.108.212
+/system identity
+set name=Kel-7
+```
