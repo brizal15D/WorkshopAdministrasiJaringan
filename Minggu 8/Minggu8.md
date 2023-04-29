@@ -3,8 +3,8 @@
 
 - [Cara 1](#Cara-1)
     -  [Install nginx, MariaFB, php](#Install-nginx,-MariaFB,-php)
-    -  [Install utility untuk install composer](#Install-tility-untuk-install-composer)
-    -  [Download composer.phar](#Download-composer.phar)
+    -  [Install utility untuk install composer](#Install-utility-untuk-install-composer)
+    -  [Download composer.phar](#Download-composerphar)
     -  [Cek version](#Cek-version)
 - [Cara 2](#Cara-2)
     -  Install web server, php, database
