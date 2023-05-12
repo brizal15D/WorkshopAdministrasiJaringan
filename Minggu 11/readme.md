@@ -13,7 +13,7 @@ nano /etc/bind/named.conf.local
 - edit menjadi allow-transfer seperti gambar dibawah ini
 ![named.conf.local](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2011/Assets/1.png)
 
-## 2. Edit file /var/cache/bind9/kampus-07.takehome-forward
+## 2. Edit file /etc/bind/named.conf.options
 - Jalankan perintah berikut untuk akses edit
 ```
 nano /etc/bind/named.conf.options
