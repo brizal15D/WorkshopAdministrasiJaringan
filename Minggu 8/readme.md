@@ -6,16 +6,6 @@
     -  [Install utility untuk install composer](#Install-utility-untuk-install-composer)
     -  [Download composer.phar](#Download-composerphar)
     -  [Cek version](#Cek-version)
-- [Cara 2](#Cara-2)
-    -  Install web server, php, database
-        -  Install MariaDB-server
-        -  Membuat user baru
-        -  Upload projeck ke webserver
-    - Install konfigurasi FTP Server
-        - Install ProFTPD
-        - Backup
-        - Membuat user baru
-        - uji coba FTP
         
  ## Install nginx, MariaFB, php
 lakukan instalasi dengan perintah dibawah ini:
