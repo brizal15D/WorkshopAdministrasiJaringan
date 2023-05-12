@@ -16,7 +16,7 @@ nano /etc/bind/named.conf.local
 ## 2. Edit file /var/cache/bind9/kampus-07.takehome-forward
 - Jalankan perintah berikut untuk akses edit
 ```
-nano /var/cache/bind9/kampus-07.takehome-forward
+nano /etc/bind/named.conf.options
 ```
 - edit menjadi 10.252.108.10 seperti gambar dibawah ini
 ![forward](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2011/Assets/2.png)
