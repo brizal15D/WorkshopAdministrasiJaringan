@@ -81,4 +81,5 @@ cat error.log
 ![cek error php](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2010/Assets/5.png)
 
 ## Berikut hasilnya
+- Laravel sudah berjalan namun masih error, kemungkinan ada diizin akses VM 
 ![cek error php](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2010/Assets/6.jpeg)
