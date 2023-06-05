@@ -1,10 +1,10 @@
 # Install Web Server di Linux
 ### Daftar Isi
 
-    -  [Install nginx, MariaFB, php](#Install-nginx-MariaFB-php)
-    -  [Install utility untuk install composer](#Install-utility-untuk-install-composer)
-    -  [Download composer.phar](#Download-composerphar)
-    -  [Cek version](#Cek-version)
+-  [Install nginx, MariaFB, php](#Install-nginx-MariaFB-php)
+-  [Install utility untuk install composer](#Install-utility-untuk-install-composer)
+-  [Download composer.phar](#Download-composerphar)
+-  [Cek version](#Cek-version)
         
  ## Install nginx, MariaFB, php
 lakukan instalasi dengan perintah dibawah ini:
