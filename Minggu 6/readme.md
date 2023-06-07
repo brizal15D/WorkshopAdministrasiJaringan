@@ -31,24 +31,31 @@ sudo apt-get upgrade
 ```
 sudo apt-get install bind9 bind9utils
 ```
-3, configurasi named.conf
+3. configurasi named.conf
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/namedconf.png)
 
 4. configurasi dns server (named.conf.local)
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/namedconflocal.png)
 
 5. configurasi  forward
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/forward.png)
 
 6. configurasi reverse
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/reverse.png)
 
 7. configurasi resolve
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/resolvconf.png)
 
 8. configurasi resolve
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/namedconfoptions.png)
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/namedconfoptions2.png)
 
 9. testing
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%206/assets/testing.png)
