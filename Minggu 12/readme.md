@@ -125,7 +125,7 @@ setelah install, coba jalankan code berikut untuk mengirimkan email
 telnet mail.kampus-07.takehome.com 25
 ```
 Contoh mengirim email
-![send email]()
+![send email](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2012/assets/SENT%20MAIL.png)
 
 contoh penerima email
-![receive email]()
+![receive email](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2012/assets/receive%20mail.png)
