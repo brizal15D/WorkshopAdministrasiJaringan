@@ -5,9 +5,11 @@
 sudo apt install mariadb-server roundcube
 ```
 klik yes:
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/157.png)
 
 Masukkan password, wajib dan minimal 4 karakter
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/158.png)
 
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/159.png)
@@ -46,18 +48,23 @@ $config['smtp_pass'] = '';
 sudo dpkg-reconfigure roundcube-core
 ```
 9. Kosongkan karena kita tidak menggunakan tls.
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/160.png)
 
 10. Pilih bahasa untuk roundcube.
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/161.png)
 
 11. Pilih no jika tidak ingin reinstall database yang telah dibuat.
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/162.png)
 
 12. Check pada pilihan apache dan uncheck lighttpd.
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/163.png)
 
 13. Pilih yes untuk merestart web server.
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/164.png)
 
 14. Edit apache config untuk memasukkan konfigurasi tambahan dari roundcube ke apache config.
@@ -94,6 +101,7 @@ systemctl restart apache2
 
 ## 2. Testing
 Setelah membuka web browser di sisi klien, navigasikan ke domain mail server yang sesuai. Kemudian, tampilan antarmuka Roundcube akan muncul. Anda dapat melihat dan mengakses kotak surat elektronik melalui antarmuka ini.
+
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/165.png)
 
 ![](https://raw.githubusercontent.com/rizal15D/WorkshopAdministrasiJaringan/main/Minggu%2013/assets/166.png)
